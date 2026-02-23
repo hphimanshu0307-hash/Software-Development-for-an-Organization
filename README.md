@@ -1,3 +1,5 @@
+![License: All Rights Reserved](https://img.shields.io/badge/license-All%20Rights%20Reserved-red)
+
 # Enterprise ERP System
 
 This repository documents the design, development, and real-world deployment
