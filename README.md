@@ -84,3 +84,16 @@ existing workflows.
 
 Due to confidentiality, internal data, organization identifiers, and sensitive
 details have been intentionally excluded or anonymized.
+
+---
+
+---
+
+## Disclaimer
+
+This repository is intended for documentation and demonstration purposes only.
+The system described here was developed for a real organization and contains
+design decisions and workflows specific to that context.
+
+No source code, credentials, or sensitive internal data are included. All
+screenshots and descriptions have been anonymized to preserve confidentiality.
