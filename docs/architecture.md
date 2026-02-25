@@ -21,6 +21,7 @@ without impacting the stability of the overall system.
 - Financial workflows & reporting
 - Document storage & retrieval
 - Analytics and dashboards
+- Tendering
 
 ---
 
