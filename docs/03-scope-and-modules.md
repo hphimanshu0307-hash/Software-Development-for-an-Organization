@@ -12,6 +12,7 @@ This document outlines the functional scope of the ERP system.
 - Financial tracking and reporting
 - Document management
 - Analytics and performance monitoring
+- Tender Management
 
 ---
 
