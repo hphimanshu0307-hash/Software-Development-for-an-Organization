@@ -55,7 +55,7 @@ existing workflows.
 
 ## Impact
 
-- ~300 active users
+- ~150 active users
 - Deployed in a real organizational environment
 - Paid engagement
 - Improved coordination, visibility, and process reliability
