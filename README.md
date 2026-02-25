@@ -40,6 +40,7 @@ organizational growth without disrupting daily operations.
 - Financial workflows and reporting
 - Centralized document management
 - Performance and activity dashboards
+- Tender Management
 
 ---
 
