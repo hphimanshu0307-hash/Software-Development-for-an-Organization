@@ -6,7 +6,7 @@ This repository documents the design, development, and real-world deployment
 of a full-scale ERP system built for a 20+ year-old organization to manage
 operations, personnel, compliance, and financial workflows.
 
-The system is actively used by approximately 300 users across departments
+The system is actively used by approximately 50 users across departments
 and supports daily operational decision-making.
 
 ---
